@@ -1,11 +1,12 @@
 <h1 align="left">Hi 👋, I'm Hafiz Haseeb Ahmad Butt</h1>
 <h3 align="left">Full-stack developer with a passion for crafting innovative applications. I possess strong expertise in JavaScript and its libraries like React.js, along with proficiency in back-end technologies like PHP, Laravel, and Java Spring Boot. My skills allow me to build efficient full-stack solutions with clean business logic. I’m eager to leverage my abilities and enthusiasm to contribute to impact full software projects. I thrive in fast-paced, innovative environments and am always up for new challenges.</h3>
 
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=haseebahmadbutt&" alt="haseebahmadbutt" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haseebahmadbutt&show_icons=true&locale=en&layout=compact" alt="haseebahmadbutt" /></p>
-
+<br/>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=haseebahmadbutt&show_icons=true&locale=en" alt="haseebahmadbutt" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=haseebahmadbutt&" alt="haseebahmadbutt" /></p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haseebahmadbutt&label=Profile%20views&color=0e75b6&style=flat" alt="haseebahmadbutt" /> </p>
 
