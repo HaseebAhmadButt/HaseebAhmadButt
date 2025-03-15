@@ -5,25 +5,20 @@ Full-Stack Developer
 I am a Full-stack developer with a passion for crafting innovative applications. I possess strong expertise in JavaScript and its libraries like React.js, along with proficiency in back-end technologies like PHP, Laravel, and Java Spring Boot. My skills allow me to build efficient full-stack solutions with clean business logic. I’m eager to leverage my abilities and enthusiasm to contribute to impact full software projects. I thrive in fast-paced, innovative environments and am always up for new challenges.
 ### 🔭 Currently Working On<br>
 - Currently migrating backend infrastructure from MuleSoft to ForumSentry for a US insurance company.
-- Developing a general-purpose web scraping tool designed to extract data from any publicly accessible website, facilitating the acquisition of valuable insights.<br><br>
+- Developing a general-purpose web scraping tool designed to extract data from any publicly accessible website, facilitating the acquisition of valuable insights. 
 ### 🤝 Open to Collaborate On
 - Open-source projects in the domain of Java and JavaScript.
 - Enterprise grid software development.
 ### 📚 Currently Learning
 - Microservices architecture using Java Spring Boot Cloud Architecure using GCP
-<br><br>
-
 ### 💬 Ask Me About
 - How to develop a scalable software for your business?
-- How to craft a responsive web design for you busness? <br><br>
+- How to craft a responsive web design for you busness?  
 ## 🌐 Socials:<br>
 - [LinkedIn ](https://www.linkedin.com/in/haseeb-ahmad-butt/)<br>
 - [Email](mailto:your.haseebabdul148@gmail.com)
-- <br><br>
 ### 📜 Certifications<br>
 - [[NEW] Master Spring Boot 3 & Spring Framework 6 with Java ](https://www.udemy.com/certificate/UC-e8f8e3ba-8dd7-4235-a6bb-8cbcec429247/) 
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/haseeb-ahmad-butt) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14356961) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:haseebabdul148@gmail.com) 
 
