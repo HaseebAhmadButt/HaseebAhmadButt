@@ -38,7 +38,8 @@ I am a Full-stack developer with a passion for crafting innovative applications.
 - HTML5
 - CSS
 - JavaScript
-- React.js
+- - [![Reactjs](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)](https://reactjs.org/)
+- [![chartjs](https://www.chartjs.org/media/logo-title.svg)](https://www.chartjs.org)
 
 ### Version Control
 - Git
@@ -50,7 +51,7 @@ I am a Full-stack developer with a passion for crafting innovative applications.
 - Postgres
 
 ## 📊 GitHub Analytics:
-
+[![chartjs](https://www.chartjs.org/media/logo-title.svg)](https://www.chartjs.org)
 ## 🏆 GitHub Achievements:
 
 ## ✨ Also active on:
