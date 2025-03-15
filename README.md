@@ -10,13 +10,11 @@ I am a Full-stack developer with a passion for crafting innovative applications.
 - Open-source projects in the domain of Java and JavaScript.
 - Enterprise grid software development.
 ### 📚 Currently Learning
-- Microservices architecture using Java Spring Boot Cloud Architecure using GCP
+- Microservices architecture using Java Spring Boot.
+- Cloud Architecure using GCP
 ### 💬 Ask Me About
 - How to develop a scalable software for your business?
 - How to craft a responsive web design for you busness?  
-## 🌐 Socials:<br>
-- [LinkedIn ](https://www.linkedin.com/in/haseeb-ahmad-butt/)<br>
-- [Email](mailto:your.haseebabdul148@gmail.com)
 ### 📜 Certifications<br>
 - [[NEW] Master Spring Boot 3 & Spring Framework 6 with Java ](https://www.udemy.com/certificate/UC-e8f8e3ba-8dd7-4235-a6bb-8cbcec429247/) 
 ## 🌐 Socials:
