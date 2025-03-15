@@ -1,22 +1,57 @@
-<h1 align="center">Hi 👋, I'm Hafiz Haseeb Ahmad Butt</h1>
-<h3 align="center">Full-stack developer with a passion for crafting innovative applications. I possess strong expertise in JavaScript and its libraries like React.js, along with proficiency in back-end technologies like PHP, Laravel, and Java Spring Boot. My skills allow me to build efficient full-stack solutions with clean business logic. I’m eager to leverage my abilities and enthusiasm to contribute to impact full software projects. I thrive in fast-paced, innovative environments and am always up for new challenges.</h3>
+# Hi, I'm Hafiz Haseeb Ahmad Butt
+Software Engineer |
+Full-Stack Developer
+## 💫 About Me:
+I am a Full-stack developer with a passion for crafting innovative applications. I possess strong expertise in JavaScript and its libraries like React.js, along with proficiency in back-end technologies like PHP, Laravel, and Java Spring Boot. My skills allow me to build efficient full-stack solutions with clean business logic. I’m eager to leverage my abilities and enthusiasm to contribute to impact full software projects. I thrive in fast-paced, innovative environments and am always up for new challenges.
+### 🔭 Currently Working On
+- Currently migrating backend infrastructure from MuleSoft to ForumSentry for a US insurance company.
+- Developing a general-purpose web scraping tool designed to extract data from any publicly accessible website, facilitating the acquisition of valuable insights.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=haseebahmadbutt&label=Profile%20views&color=0e75b6&style=flat" alt="haseebahmadbutt" /> </p>
+### 🤝 Open to Collaborate On
+- Open-source projects in the domain of Java and JavaScript.
+- Enterprise grid software development.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haseebahmadbutt" alt="haseebahmadbutt" /></a> </p>
+### 📚 Currently Learning
+- Microservices architecture using Java Spring Boot
+- Cloud Architecure using GCP
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+### 💬 Ask Me About
+- How to develop a scalable software for your business?
+- How to craf a responsive web design for you busness? 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/haseeb-ahmad-butt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/haseeb-ahmad-butt/" height="30" width="40" /></a>
-</p>
+## 🌐 Socials:
+- [LinkedIn ](https://www.linkedin.com/in/haseeb-ahmad-butt/)
+- [Email](mailto:your.haseebabdul148@gmail.com)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://lucene.apache.org/solr/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_solr/apache_solr-icon.svg" alt="solr" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+## 📜 Certifications
+- [[NEW] Master Spring Boot 3 & Spring Framework 6 with Java ](https://www.udemy.com/certificate/UC-e8f8e3ba-8dd7-4235-a6bb-8cbcec429247/) 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haseebahmadbutt&show_icons=true&locale=en&layout=compact" alt="haseebahmadbutt" /></p>
+## 💻 Technical Expertise:
+### Backend Technologies
+- Spring MVC
+- Spring Boot
+- Hibernet
+- PHP/Laravel
+- Linux
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haseebahmadbutt&show_icons=true&locale=en" alt="haseebahmadbutt" /></p>
+### Frontend Technologies
+- HTML5
+- CSS
+- JavaScript
+- React.js
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haseebahmadbutt&" alt="haseebahmadbutt" /></p>
+### Version Control
+- Git
+- GitHub
+  
+### Databases
+- MongoDB
+- MySQL
+- Postgres
+
+## 📊 GitHub Analytics:
+
+## 🏆 GitHub Achievements:
+
+## ✨ Also active on:
+- profile views
