@@ -53,7 +53,7 @@
             height="40" /> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40"
             height="40" /> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png"
             alt="laravel" width="40" height="40" /> </a> <a href="https://www.mongodb.com/" target="_blank"
         rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
